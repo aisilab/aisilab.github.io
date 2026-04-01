@@ -4,7 +4,8 @@ title: Research
 permalink: /research/
 ---
 
-We make advanced AI systems safer and more transparent by developing methods to understand model behavior, model internals, model interaction, and model population dynamics.
+We make advanced AI systems safer and more transparent by developing methods to
+understand model behavior and internals, AI agent interaction, and collective dynamics in agent populations.
 
 To this end, we build interpretability methods that reveal how AI systems work internally, and leverage these insights to ensure safe behavior when AI agents interact with the world and each other. Our work is organized around four themes:
 
