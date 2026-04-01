@@ -17,7 +17,7 @@
 remote_theme: lgalke/swiss
 
 title: "AI Safety & Interpretability Lab"
-tagline: "AI Safety \& Interpretability Lab" # Used by seo tag
+tagline: "AI Safety & Interpretability Lab" # Used by seo tag
 description: >
   We make advanced AI systems safer and more transparent by developing methods
   to understand model behavior and internals, AI agent interaction, and
