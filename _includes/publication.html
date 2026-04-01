@@ -1,0 +1,51 @@
+<style>
+    .publication-abstract details > summary {
+        list-style: none;
+    }
+    .publication-abstract details > summary::-webkit-details-marker {
+        display: none;
+    }
+    .publication-abstract details > summary::before {
+        content: "▶ ";
+    }
+    .publication-abstract details[open] > summary::before {
+        content: "▼ ";
+    }
+</style>
+
+<div style="border: 1px solid" class="container mx-auto mb-2 px-2 py-2">
+    <div class="publication-title" style="font-weight: bold; font-size: 1.2rem;">{{ include.title }}</div>
+    <div class="publication-authors">{{ include.authors }}</div>
+    <div class="publication-venue" style="font-size: 1.05rem; font-weight: 500; margin-top: 0.25rem;">
+    {% if include.venue and include.venue != "" %}
+        <em>{{ include.venue }}</em> {{ include.year }}
+    {% endif %}
+    </div>
+    {% if include.abstract and include.abstract != "" %}
+    <div class="publication-abstract mb-0">
+    <details class="mr-1" style="display: inline;">
+        <summary style="cursor: pointer; display: inline;">Abstract</summary>
+        <div style="margin-top: 0.5rem; padding: 0.5rem; border: 1px dashed">
+            {{ include.abstract }}
+        </div>
+    </details>
+    </div>
+    {% endif %}
+    <div class="publication-links mt-0 mb-0">
+    {% if include.paper_url and include.paper_url != "" %}
+        <a class="mr-1" href="{{ include.paper_url }}">Paper</a>
+    {% endif %}
+    {% if include.preprint_url and include.preprint_url != "" %}
+        <a class="mr-1" href="{{ include.preprint_url }}">Preprint</a>
+    {% endif %}
+    {% if include.project_url and include.project_url != "" %}
+        <a class="mr-1" href="{{ include.project_url }}">Project Page</a>
+    {% endif %}
+    {% if include.code_url and include.code_url != "" %}
+        <a class="mr-1" href="{{ include.code_url }}">Code</a>
+    {% endif %}
+    {% if include.data_url and include.data_url != "" %}
+        <a class="mr-1" href="{{ include.data_url }}">Data</a>
+    {% endif %}
+    </div>
+</div>
