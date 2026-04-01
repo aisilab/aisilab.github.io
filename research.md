@@ -7,19 +7,29 @@ permalink: /research/
 We make advanced AI systems safer and more transparent by developing methods to
 understand model behavior and internals, AI agent interaction, and collective dynamics in agent populations.
 
-To this end, we build interpretability methods that reveal how AI systems work internally, and leverage these insights to ensure safe behavior when AI agents interact with the world and each other. Our work is organized around four themes:
-
-**Model Behavior**. How do AI systems behave, and what do they know? We probe and evaluate model capabilities through benchmarks, behavioral experiments, and analysis of emergent structure in learned representations.
-
-**Model Internals**. How do models represent what they know? We develop mechanistic interpretability methods to localize, isolate, and edit internal representations — from culture-specific neurons to tokenization effects on encoded knowledge.
-
-**Agentic & Multi-Agent Safety**. What happens when AI agents interact with the world and each other? We investigate guardrails, steering, cooperation, and failure modes in multi-agent systems.
-
-**Efficient & Sustainable AI**. AI safety research requires models we can actually inspect, and the planet requires that we train them responsibly. We develop methods to reduce the computational and environmental cost of AI systems, democratizing access to models that can be opened up for transparency and safety research.
-
 A selection of our recent publications is listed below, organized by theme.
 
-## Model behavior
+## Interpretability and Transparency
+
+{% include publication.html
+    title="Isolating Culture Neurons in Multilingual Large Language Models"
+    authors="Danial Namazifard, Lukas Galke Poech"
+    venue="IJCNLP-AACL Findings"
+    abstract="Language and culture are deeply intertwined, yet it is so far unclear how and where multilingual large language models encode culture. Here, we extend upon an established methodology for identifying language-specific neurons and extend it to localize and isolate culture-specific neurons, carefully disentangling their overlap and interaction with language-specific neurons. To facilitate our experiments, we introduce MUREL, a curated dataset of 85.2 million tokens spanning six different cultures. Our localization and intervention experiments show that LLMs encode different cultures in distinct neuron populations, predominantly in upper layers, and that these culture neurons can be modulated independently from language-specific neurons or those specific to other cultures. These findings suggest that cultural knowledge and propensities in multilingual language models can be selectively isolated and edited - promoting fairness, inclusivity, and alignment."
+    code_url="https://github.com/namazifard/Culture_Neurons"
+    year="2025"
+    paper_url="https://aclanthology.org/2025.findings-ijcnlp.45/"
+    preprint_url="https://arxiv.org/abs/2508.02241"
+%}
+
+{% include publication.html
+    title="Tokenization and Morphology in Multilingual Language Models: A Comparative Analysis of mT5 and ByT5"
+    authors="Thao Anh Dang, Limor Raviv, Lukas Galke"
+    venue="ICNLSP"
+    year="2025"
+    abstract="Morphology is a crucial factor for multilingual language modeling as it poses direct challenges for tokenization. Here, we seek to understand how tokenization influences the morphological knowledge encoded in multilingual language models. Specifically, we capture the impact of tokenization by contrasting a minimal pair of multilingual language models: mT5 and ByT5. The two models share the same architecture, training objective, and training data and only differ in their tokenization strategies: subword tokenization vs. character-level tokenization. Probing the morphological knowledge encoded in these models on four tasks and 17 languages, our analyses show that the models learn the morphological systems of some languages better than others and that morphological information is encoded in the middle and late layers. Finally, we show that languages with more irregularities benefit more from having a higher share of the pre-training data."
+    paper_url="https://aclanthology.org/2025.icnlsp-1.24/"
+%}
 
 {% include publication.html
     title="Learning and communication pressures in neural networks: Lessons from emergent communication"
@@ -47,28 +57,6 @@ A selection of our recent publications is listed below, organized by theme.
     paper_url="https://aclanthology.org/2024.cmcl-1.15/"
 %}
 
-## Model internals
-
-{% include publication.html
-    title="Isolating Culture Neurons in Multilingual Large Language Models"
-    authors="Danial Namazifard, Lukas Galke Poech"
-    venue="IJCNLP-AACL Findings"
-    abstract="Language and culture are deeply intertwined, yet it is so far unclear how and where multilingual large language models encode culture. Here, we extend upon an established methodology for identifying language-specific neurons and extend it to localize and isolate culture-specific neurons, carefully disentangling their overlap and interaction with language-specific neurons. To facilitate our experiments, we introduce MUREL, a curated dataset of 85.2 million tokens spanning six different cultures. Our localization and intervention experiments show that LLMs encode different cultures in distinct neuron populations, predominantly in upper layers, and that these culture neurons can be modulated independently from language-specific neurons or those specific to other cultures. These findings suggest that cultural knowledge and propensities in multilingual language models can be selectively isolated and edited - promoting fairness, inclusivity, and alignment."
-    code_url="https://github.com/namazifard/Culture_Neurons"
-    year="2025"
-    paper_url="https://aclanthology.org/2025.findings-ijcnlp.45/"
-    preprint_url="https://arxiv.org/abs/2508.02241"
-%}
-
-{% include publication.html
-    title="Tokenization and Morphology in Multilingual Language Models: A Comparative Analysis of mT5 and ByT5"
-    authors="Thao Anh Dang, Limor Raviv, Lukas Galke"
-    venue="ICNLSP"
-    year="2025"
-    abstract="Morphology is a crucial factor for multilingual language modeling as it poses direct challenges for tokenization. Here, we seek to understand how tokenization influences the morphological knowledge encoded in multilingual language models. Specifically, we capture the impact of tokenization by contrasting a minimal pair of multilingual language models: mT5 and ByT5. The two models share the same architecture, training objective, and training data and only differ in their tokenization strategies: subword tokenization vs. character-level tokenization. Probing the morphological knowledge encoded in these models on four tasks and 17 languages, our analyses show that the models learn the morphological systems of some languages better than others and that morphological information is encoded in the middle and late layers. Finally, we show that languages with more irregularities benefit more from having a higher share of the pre-training data."
-    paper_url="https://aclanthology.org/2025.icnlsp-1.24/"
-%}
-
 ## Agentic & Multi-Agent Safety
 
 {% include publication.html
@@ -90,7 +78,7 @@ A selection of our recent publications is listed below, organized by theme.
     project_url="https://github.com/pippot/Superadditive-cooperation-LLMs"
 %}
 
-## Efficient & Sustainable AI
+## Sustainability and Resource Impact
 
 {% include publication.html
     title="DeToNATION: Decoupled Torch Network-Aware Training on Interlinked Online Nodes"
