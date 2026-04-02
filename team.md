@@ -10,7 +10,7 @@ permalink: /team/
 {% for member in sorted_team %}
 ## {{ member.name }}
 
-*{{ member.role }}{% if member.since %}, since {{ member.since }}{% endif %}*
+*{{ member.role }}*
 
 {{ member.content }}
 

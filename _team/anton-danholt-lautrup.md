@@ -1,11 +1,12 @@
 ---
 name: Anton Danholt Lautrup
-role: Postdoc
+role: Postdoc (since February 2026)
 affiliation: University of Southern Denmark (SDU)
 image:
 order: 1
-since: February 2025
 research_areas:
-  - Fundamentals of Interpretability Methods
+  - Generative models
+  - Machine learning for tabular data
+  - Fundamentals of interpretability
 ---
 

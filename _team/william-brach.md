@@ -1,10 +1,11 @@
 ---
 name: William Brach
-role: Guest PhD Student (now latent collaborator)
+role: Guest PhD Student in 2025, now latent collaborator
 affiliation:
 image:
 order: 5
-since: 2025
-research_areas: []
+research_areas:
+  - AI Safety on the Web
+  - Guardrails
 ---
 
