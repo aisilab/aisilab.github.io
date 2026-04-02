@@ -20,8 +20,8 @@ title: "AI Safety & Interpretability Lab"
 tagline: "AI Safety & Interpretability Lab" # Used by seo tag
 description: >
   We make advanced AI systems safer and more transparent by developing methods
-  to understand model behavior and internals, AI agent interaction, and
-  collective dynamics in agent populations.
+  to understand model behavior, model internals, AI agent interaction, and
+  collective action in agent populations.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://aisilab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
