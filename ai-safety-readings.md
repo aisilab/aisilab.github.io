@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AISI Readings
+title: AI Safety Readings
 permalink: /ai-safety-readings/
 ---
 
