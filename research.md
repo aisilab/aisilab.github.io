@@ -9,7 +9,7 @@ understand model behavior and internals, AI agent interaction, and collective dy
 
 A selection of our recent publications is listed below, organized by theme.
 
-## Interpretability and Transparency
+## Interpretability & Transparency
 
 {% include publication.html
     title="Isolating Culture Neurons in Multilingual Large Language Models"
@@ -78,11 +78,13 @@ A selection of our recent publications is listed below, organized by theme.
     project_url="https://github.com/pippot/Superadditive-cooperation-LLMs"
 %}
 
-## Sustainability and Resource Impact
+## Sustainability & Resource Impact
+
+*In collaboration with [OdenseNLP](https://odensenlp.github.io)*
 
 {% include publication.html
     title="DeToNATION: Decoupled Torch Network-Aware Training on Interlinked Online Nodes"
-    authors="Mogens From, Jacob Nielsen, Lukas Galke, and Peter Schneider-Kamp"
+    authors="Mogens From, Jacob Nielsen, Lukas Galke Poech, and Peter Schneider-Kamp"
     venue="AAAI"
     year="2026"
     preprint_url="https://arxiv.org/abs/2502.06728"
