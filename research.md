@@ -60,6 +60,14 @@ A selection of our recent publications is listed below, organized by theme.
 ## Agentic & Multi-Agent Safety
 
 {% include publication.html
+    title="Training Language Models to Use Proloag as a Tool"
+    authors="Niklas Mellgren, Peter Schneider-Kamp, and Lukas Galke Poech"
+    venue="ACL Findings"
+    year="2026"
+    preprint_url="https://arxiv.org/abs/2512.07407"
+%}
+
+{% include publication.html
     title="Guarded Query Routing for Large Language Models"
     authors="Richard Šléher, William Brach, Tibor Sloboda, Kristián Košťál, and Lukas Galke"
     venue="ECAI"

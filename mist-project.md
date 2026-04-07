@@ -4,7 +4,7 @@ title: MIST Project
 permalink: /mist/
 ---
 
-# MIST: Scalable Mechanistic Interpretability for Safe and Trustworthy LLM Agents
+## MIST: Scalable Mechanistic Interpretability for Safe and Trustworthy LLM Agents
 
 Large language models are increasingly used as agents that can plan, reason, and use tools. Yet we still lack a clear understanding of *how* they produce their outputs — a mist that must be cleared before these systems can be safely deployed in high-stakes applications.
 
