@@ -83,7 +83,8 @@ A selection of our recent publications is listed below, organized by theme.
     venue="3rd International Conference on Frontiers of Artificial Intelligence, Ethics, and Multidisciplinary Applications (FAIEMA)"
     year="2025"
     preprint_url="https://arxiv.org/abs/2508.15510"
-    project_url="https://github.com/pippot/Superadditive-cooperation-LLMs"
+    project_url="https://pippot.github.io/Superadditive-cooperation-LLMs/"
+    code_url="https://github.com/pippot/Superadditive-cooperation-LLMs"
 %}
 
 ## Sustainability & Resource Impact
