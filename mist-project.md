@@ -20,4 +20,4 @@ MIST develops scalable methods for mechanistic interpretability to understand th
 
 ## Funding
 
-MIST is funded by the Novo Nordisk Foundation through a RECRUIT grant for international recruitment (2026–2030).
+MIST is funded by the Novo Nordisk Foundation through a RECRUIT grant (2026–2031).
