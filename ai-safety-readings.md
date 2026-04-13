@@ -23,5 +23,5 @@ Email us at <a href="mailto:galke@imada.sdu.dk">galke@imada.sdu.dk</a> if you wa
 | Mar 23, 2026 | [EasySteer](https://arxiv.org/abs/2509.25175) | Gianluca |
 | March 30, 2026 | [Thought Branches](https://arxiv.org/abs/2510.27484) | Andrea    |
 | April 13, 2026 | [Evaluating and Understanding Scheming Propensity in LLM Agents](https://arxiv.org/abs/2603.01608) | Filippo |
-| April 20, 2026, **13:00** | t.b.d | t.b.d |
+| April 20, 2026, **13:00** | [Steering Evaluation-Aware Language Models to Act Like They Are Deployed](https://arxiv.org/abs/2510.20487) | Lukas |
 | April 27, 2026 | [Emergently Misaligned Language Models Show Behavioral Self-Awareness That Shifts With Subsequent Realignment](https://arxiv.org/abs/2602.14777) | Laurene Vaugrante |
