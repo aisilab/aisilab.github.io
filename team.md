@@ -14,8 +14,9 @@ permalink: /team/
 
 {{ member.content }}
 
-{% if member.email or member.github or member.scholar or member.linkedin %}
+{% if member.email or member.github or member.scholar or member.linkedin or member.website %}
 {% if member.email %}[Email](mailto:{{ member.email }}){% endif %}
+{% if member.website %} | [Website]({{ member.website }}){% endif %}
 {% if member.github %} | [GitHub]({{ member.github }}){% endif %}
 {% if member.scholar %} | [Google Scholar]({{ member.scholar }}){% endif %}
 {% if member.linkedin %} | [LinkedIn]({{ member.linkedin }}){% endif %}
