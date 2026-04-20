@@ -25,3 +25,4 @@ Email us at <a href="mailto:galke@imada.sdu.dk">galke@imada.sdu.dk</a> if you wa
 | April 13, 2026 | [Evaluating and Understanding Scheming Propensity in LLM Agents](https://arxiv.org/abs/2603.01608) | Filippo |
 | April 20, 2026, **13:00** | [Steering Evaluation-Aware Language Models to Act Like They Are Deployed](https://arxiv.org/abs/2510.20487) | Lukas |
 | April 27, 2026 | [Emergently Misaligned Language Models Show Behavioral Self-Awareness That Shifts With Subsequent Realignment](https://arxiv.org/abs/2602.14777) | Laurene Vaugrante |
+| May 4, 2026 | [Cross-Architecture Model Diffing with Crosscoders: Unsupervised Discovery of Differences Between LLMs](https://arxiv.org/abs/2602.11729)| Federico |
