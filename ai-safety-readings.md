@@ -1,12 +1,12 @@
 ---
 layout: page
-title: AI Safety Readings
+title: SDU AI Safety Readings
 permalink: /ai-safety-readings/
 ---
 
-We run a regular reading group on AI Safety and Interpretability. We discuss recent papers
-on interpretability, alignment, multi-agent safety, and related topics.
-Everyone is welcome, regardless of background.
+We run a weekly reading group on AI Safety and Interpretability, hosted at the Department of Mathematics and Computer Science, University of Southern Denmark. We discuss recent papers
+on interpretability, control, alignment, agentic/multi-agent safety, and related topics.
+Everyone is welcome, regardless of background. Our meetings are held in hybrid format.
 
 The reading group is currently held on Mondays at 14:00 Copenhagen time (unless another time is mentioned).
 Email us at <a href="mailto:galke@imada.sdu.dk">galke@imada.sdu.dk</a> if you want to join or have any questions.
@@ -25,4 +25,5 @@ Email us at <a href="mailto:galke@imada.sdu.dk">galke@imada.sdu.dk</a> if you wa
 | April 13, 2026 | [Evaluating and Understanding Scheming Propensity in LLM Agents](https://arxiv.org/abs/2603.01608) | Filippo |
 | April 20, 2026, **13:00** | [Steering Evaluation-Aware Language Models to Act Like They Are Deployed](https://arxiv.org/abs/2510.20487) | Lukas |
 | April 27, 2026 | [Emergently Misaligned Language Models Show Behavioral Self-Awareness That Shifts With Subsequent Realignment](https://arxiv.org/abs/2602.14777) | Laurene Vaugrante |
-| May 4, 2026 | [Cross-Architecture Model Diffing with Crosscoders: Unsupervised Discovery of Differences Between LLMs](https://arxiv.org/abs/2602.11729)| Federico |
+| May 4, 2026 | [Cross-Architecture Model Diffing with Crosscoders: Unsupervised Discovery of Differences Between LLMs](https://arxiv.org/abs/2602.11729) | Federico |
+| May 11, 2026 | [Conditional misalignment: common interventions can hide emergent misalignment behind contextual triggers](https://arxiv.org/abs/2604.25891) | tbd |
