@@ -26,5 +26,5 @@ Email us at <a href="mailto:galke@imada.sdu.dk">galke@imada.sdu.dk</a> if you wa
 | April 20, 2026, **13:00** | [Steering Evaluation-Aware Language Models to Act Like They Are Deployed](https://arxiv.org/abs/2510.20487) | Lukas |
 | April 27, 2026 | [Emergently Misaligned Language Models Show Behavioral Self-Awareness That Shifts With Subsequent Realignment](https://arxiv.org/abs/2602.14777) | Laurene Vaugrante |
 | May 4, 2026 | [Cross-Architecture Model Diffing with Crosscoders: Unsupervised Discovery of Differences Between LLMs](https://arxiv.org/abs/2602.11729) | Federico |
-| May 11, 2026 | Screening new literature: Natural Language Autoencoders, Neural Geometry, and Manifold Steering | * | 
-| June 1, 2026 | [Position: Model Collapse Does Not Mean What You Think](https://arxiv.org/abs/2503.03150) | Anton |
+| May 11, 2026 | Screening new literature: [Natural Language Autoencoders](https://transformer-circuits.pub/2026/nla/), [Neural Geometry](https://www.goodfire.ai/research/the-world-inside-neural-networks#), and [Manifold Steering](https://www.goodfire.ai/research/manifold-steering#) | * |
+| June 1, 2026, **15:00** | [Position: Model Collapse Does Not Mean What You Think](https://arxiv.org/abs/2503.03150) | Anton |
