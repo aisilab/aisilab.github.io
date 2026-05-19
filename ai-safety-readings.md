@@ -24,7 +24,8 @@ Email us at <a href="mailto:galke@imada.sdu.dk">galke@imada.sdu.dk</a> if you wa
 | March 30, 2026 | [Thought Branches](https://arxiv.org/abs/2510.27484) | Andrea    |
 | April 13, 2026 | [Evaluating and Understanding Scheming Propensity in LLM Agents](https://arxiv.org/abs/2603.01608) | Filippo |
 | April 20, 2026, **13:00** | [Steering Evaluation-Aware Language Models to Act Like They Are Deployed](https://arxiv.org/abs/2510.20487) | Lukas |
-| April 27, 2026 | [Emergently Misaligned Language Models Show Behavioral Self-Awareness That Shifts With Subsequent Realignment](https://arxiv.org/abs/2602.14777) | Laurene Vaugrante |
+| April 27, 2026 | [Emergently Misaligned Language Models Show Behavioral Self-Awareness That Shifts With Subsequent Realignment](https://arxiv.org/abs/2602.14777) | **Laurene Vaugrante** (University of Stuttgart)|
 | May 4, 2026 | [Cross-Architecture Model Diffing with Crosscoders: Unsupervised Discovery of Differences Between LLMs](https://arxiv.org/abs/2602.11729) | Federico |
 | May 11, 2026 | Screening new literature: [Natural Language Autoencoders](https://transformer-circuits.pub/2026/nla/), [Neural Geometry](https://www.goodfire.ai/research/the-world-inside-neural-networks#), and [Manifold Steering](https://www.goodfire.ai/research/manifold-steering#) | * |
-| June 1, 2026, **15:00** | [Position: Model Collapse Does Not Mean What You Think](https://arxiv.org/abs/2503.03150) | Anton |
+| June 1, 2026, **15:00** | Main topic: [Position: Model Collapse Does Not Mean What You Think](https://arxiv.org/abs/2503.03150) + Side reading: [Subliminal learning](https://www.nature.com/articles/s41586-026-10319-8) | Anton |
+| June 8, 2026 | [In-Training Defense against Emergent Misalignment in Language Models](https://arxiv.org/abs/2508.06249) | **Florian Mai** (Lamarr Institute for ML/AI) |
