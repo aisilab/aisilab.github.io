@@ -1,6 +1,6 @@
 ---
 name: Lukas Galke Poech
-role: Assistant Professor, Head of the Group
+role: Associate Professor, Head of the Group
 affiliation: University of Southern Denmark (SDU)
 email: galke@imada.sdu.dk
 website: https://lgalke.github.io/
