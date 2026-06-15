@@ -30,3 +30,4 @@ Email us at <a href="mailto:galke@imada.sdu.dk">galke@imada.sdu.dk</a> if you wa
 | June 1, 2026, **15:00** | Main topic: [Position: Model Collapse Does Not Mean What You Think](https://arxiv.org/abs/2503.03150) + Side reading: [Subliminal learning](https://www.nature.com/articles/s41586-026-10319-8) | Anton |
 | June 8, 2026 | [In-Training Defense against Emergent Misalignment in Language Models](https://arxiv.org/abs/2508.06249) | **Florian Mai** (Lamarr Institute for ML/AI) |
 | June 15, 2026 | [Subliminal Learning Is Steering Vector Distillation](https://arxiv.org/abs/2606.00995) | Lukas |
+| June 22, 2026 | [NeuroFaith: Evaluating LLM Self-Explanation Faithfulness via Internal Representation Alignment](https://arxiv.org/abs/2506.09277) | Gianluca |
