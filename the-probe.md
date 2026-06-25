@@ -4,9 +4,7 @@ title: The Probe
 permalink: /probe/
 ---
 
-**The Probe** is the AI Safety & Interpretability Lab's blog — notes from our
-research, takeaways from papers we read in our reading group, and updates from
-the lab.
+**The Probe** is the blog of the AI Safety & Interpretability Lab at the University of Southern Denmark. The posts mainly highlight selected topics from our research.
 
 {% for post in site.posts %}
   {% include post_block.html %}
