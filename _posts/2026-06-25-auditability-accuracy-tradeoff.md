@@ -7,7 +7,7 @@ In our recent work on training language models to defer their reasoning to a sym
 
 {% include figure.html path ="/assets/images/2026-06-26-auditability-accuracy-tradeoff.png" caption="Overview of our experimental setup for training language models to use Prolog as a tool" %}
 
-In our experiments, we found that training for task success -- with only mild Prolog syntax and format rewards -- led to the best task performance. However, the language models then still conducted the majority of their reasoning in natural language and only encoded the final output in Prolog syntax (akin to a print statement in other programming langauges). This can be regarded as a form of reward hacking, which is particularly concerning as reward hacking was recently linked to emergent misalignment[^3].
+In our experiments, we found that training for task success -- with only mild Prolog syntax and format rewards -- led to the best task performance. However, the language models then still conducted the majority of their reasoning in natural language and only encoded the final output in Prolog syntax (akin to a print statement in other programming languages). This can be regarded as a form of reward hacking, which is particularly concerning as reward hacking was recently linked to emergent misalignment[^3].
 
 We then increased the incentives for deferring the reasoning to Prolog through further reward signals. 
 We see that the added incentives successfully combat the reward hacking we
