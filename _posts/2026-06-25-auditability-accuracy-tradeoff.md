@@ -35,13 +35,13 @@ compare with an SFT baseline.
 ---
 
 Based on:
-Niklas Mellgren, Peter Schneider-Kamp, Lukas Galke Poech (2026 ACL Findings) [Training Language Models to Use Prolog as a Tool](https://arxiv.org/abs/2512.07407).
+Niklas Mellgren, Peter Schneider-Kamp, & Lukas Galke Poech (2026 ACL Findings) [Training Language Models to Use Prolog as a Tool](https://arxiv.org/abs/2512.07407).
 
 ---
 
 ## References
 
-[^0] Betley, J., Warncke, N., Sztyber-Betley, A., Tan, D., Bao, X., Soto, M., ... & Evans, O. (2026). Training large language models on narrow tasks can lead to broad misalignment. Nature, 649(8097), 584-589.
+[^0]: Betley, J., Warncke, N., Sztyber-Betley, A., Tan, D., Bao, X., Soto, M., ... & Evans, O. (2026). Training large language models on narrow tasks can lead to broad misalignment. Nature, 649(8097), 584-589.
 
 [^1]: Korbak, T., Balesni, M., Barnes, E., Bengio, Y., Benton, J., Bloom, J., ... & Mikulik, V. (2025). Chain of thought monitorability: A new and fragile opportunity for ai safety. arXiv preprint arXiv:2507.11473. 
 
