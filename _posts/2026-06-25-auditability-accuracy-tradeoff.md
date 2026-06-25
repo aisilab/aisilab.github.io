@@ -3,7 +3,9 @@
 Monitoring reasoning traces of large language models is currently one of the most promising methods to detect when language models do not behave as intended[^1] -- for instance, when they suffer from emergent misalignment[^0].
 However, emergent communication research has shown that language models may drift away from human-interpretable communication protocols when trained for task success alone[^2]. This raises the question of how long language model reasoning will be legible to humans, and whether we can incentivize legibility without sacrificing task performance.
 
-In our recent work on training language models to defer their reasoning to a symbolic reasoning engine (Prolog), we have encountered a tradeoff between the auditability of the reasoning traces and the accuracy of the model on the task.
+In our recent work on training language models to defer their reasoning to a symbolic reasoning engine (Prolog), we have encountered a tradeoff between the auditability of the reasoning traces and the accuracy of the model on the task. See Figure 1 for an overview.
+
+{% include figure.html path ="/assets/images/2026-06-26-auditability-accuracy-tradeoff.png" caption="Overview of our experimental setup for training language models to use Prolog as a tool" %}
 
 In our experiments, we found that training for task success -- with only mild Prolog syntax and format rewards -- led to the best task performance. However, the language models then still conducted the majority of their reasoning in natural language and only encoded the final output in Prolog syntax (akin to a print statement in other programming langauges). This can be regarded as a form of reward hacking, which is particularly concerning as reward hacking was recently linked to emergent misalignment[^3].
 
@@ -27,14 +29,13 @@ chain-of-thought legibility without loss of accuracy. Future work needs to
 consider alternative ways to monitor reasoning traces that still work when the
 reasoning diverges from natural language.
 
-In the paper, we explore this trade-off systematically through three different
-system prompts and three rewards suites in conjunction with GRPO training, and
+In the paper, accepted to ACL 2026 Findings, we explore this trade-off systematically through three different system prompts and three rewards suites in conjunction with GRPO training, and
 compare with an SFT baseline.
 
 ---
 
 Based on:
-[Training Language Models to Use Prolog as a Tool](https://arxiv.org/abs/2512.07407) (Niklas Mellgren, Peter Schneider-Kamp, Lukas Galke Poech, to appear in ACL 2026 Findings).
+Niklas Mellgren, Peter Schneider-Kamp, Lukas Galke Poech (2026 ACL Findings) [Training Language Models to Use Prolog as a Tool](https://arxiv.org/abs/2512.07407).
 
 ---
 
