@@ -1,6 +1,9 @@
 # The Auditability-Accuracy Tradeoff
 
+*by Lukas Galke Poech*
+
 Monitoring reasoning traces of large language models is currently one of the most promising methods to detect when language models do not behave as intended[^1] -- for instance, when they suffer from emergent misalignment[^0].
+
 However, emergent communication research has shown that language models may drift away from human-interpretable communication protocols when trained for task success alone[^2]. This raises the question of how long language model reasoning will be legible to humans, and whether we can incentivize legibility without sacrificing task performance.
 
 In our recent work on training language models to defer their reasoning to a symbolic reasoning engine (Prolog), we have encountered a tradeoff between the auditability of the reasoning traces and the accuracy of the model on the task. See Figure 1 for an overview.
