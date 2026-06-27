@@ -5,8 +5,8 @@ affiliation: University of Southern Denmark (SDU)
 image:
 order: 5
 research_areas:
-  - Evaluation
+  - LLM Evaluation
+  - Memorization
   - Interpretability
-  - Knowledge Graphs
 ---
 
