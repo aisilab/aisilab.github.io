@@ -8,4 +8,6 @@ research_areas:
   - Mechanistic Interpretability
 ---
 
-[Website](https://namazifard.github.io) | [Google Scholar](https://scholar.google.com/citations?user=NshkQfgAAAAJ)
+[Website](https://namazifard.github.io)
+
+[Google Scholar](https://scholar.google.com/citations?user=NshkQfgAAAAJ)
