@@ -60,7 +60,7 @@ A selection of our recent publications is listed below, organized by theme.
 ## Agentic & Multi-Agent Safety
 
 {% include publication.html
-    title="Training Language Models to Use Proloag as a Tool"
+    title="Training Language Models to Use Prolog as a Tool"
     authors="Niklas Mellgren, Peter Schneider-Kamp, and Lukas Galke Poech"
     venue="ACL Findings"
     year="2026"
