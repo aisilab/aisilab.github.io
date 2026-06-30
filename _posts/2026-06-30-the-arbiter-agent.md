@@ -168,9 +168,7 @@ models[^2][^3]. However, this is insufficient for multi-agent systems where
 interactions can catalyze system-level failures rapidly, sometimes leading to
 irreversible, catastrophic actions before a post-hoc trace can even be compiled.
 
-In our recent paper, we introduce the **Arbiter**, an autonomous supervisor
-designed to monitor multi-agent conversations in real time, exposing hidden
-intentions and flagging misaligned participants as soon as anomalies emerge.
+In our recent paper, we introduce the **Arbiter**, an autonomous agent designed to monitor multi-agent conversations in real time, exposing hidden intentions and flagging misaligned participants as soon as anomalies emerge.
 
 <!-- Dynamic Figure 1 Animation Canvas (Ask Model Execution Suite) -->
 <div class="animation-container">
@@ -196,7 +194,7 @@ intentions and flagging misaligned participants as soon as anomalies emerge.
     </div>
 </div>
 
-In real-world production systems, continuous surveillance cannot have infinite computational overhead. Therefore, we design the Arbiter to operate under a strict **inspection budget**. As the conversation is progressively revealed turn-by-turn, the Arbiter runs in a continuous reasoning-and-acting (ReAct) loop. At any point, it must carefully choose to spend its budget on specific audit actions:
+In real-world production systems, continual monitoring of a multi-agent conversation cannot have infinite computational overhead. Therefore, we design the Arbiter to operate under a strict **inspection budget**. As the conversation is progressively revealed turn-by-turn, the Arbiter runs in a continuous reasoning-and-acting (ReAct) loop. At any point, it must carefully choose to spend its budget on specific audit actions:
 
 - **Wait and Observe:** Advance the conversation history by a chosen number of words (low token cost).
 - **Ask Model:** Directly interrogate an agent regarding its stance.
