@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Continually Monitoring Multi-Agent Conversations to Catch Emergent Misalignment"
+title: "The Arbiter Agent"
 date: 2026-06-30
 author: Filippo Tonini
 ---
@@ -152,13 +152,25 @@ author: Filippo Tonini
     }
 </style>
 
+
+# The Arbiter Agent: Continually Monitoring Multi-Agent Conversations to Catch Emergent Misalignment
+
 *by Filippo Tonini*
 
-As AI systems built from multiple language-model agents become more common, they are increasingly tasked with collaborative decision-making: discussing, negotiating, and acting on shared workflows. This creates the need of efficient monitoring strategies, as severe safety problems can emerge from single agents or simply from their interactions with one another.
+As AI systems built from multiple language-model agents become more common, they
+are increasingly tasked with collaborative decision-making: discussing,
+negotiating, and acting on shared workflows. This creates the need of efficient
+monitoring strategies, as severe safety problems can emerge from single agents
+or simply from their interactions with one another.
 
-Most existing auditing frameworks focus on *post hoc* evaluation of single models[^2][^3]. However, this is insufficient for multi-agent systems where interactions can catalyze system-level failures rapidly, sometimes leading to irreversible, catastrophic actions before a post-hoc trace can even be compiled.
+Most existing auditing frameworks focus on *post hoc* evaluation of single
+models[^2][^3]. However, this is insufficient for multi-agent systems where
+interactions can catalyze system-level failures rapidly, sometimes leading to
+irreversible, catastrophic actions before a post-hoc trace can even be compiled.
 
-In our recent paper, we introduce the **Arbiter**, an autonomous supervisor designed to monitor multi-agent conversations in real time, exposing hidden intentions and flagging misaligned participants as soon as anomalies emerge.
+In our recent paper, we introduce the **Arbiter**, an autonomous supervisor
+designed to monitor multi-agent conversations in real time, exposing hidden
+intentions and flagging misaligned participants as soon as anomalies emerge.
 
 <!-- Dynamic Figure 1 Animation Canvas (Ask Model Execution Suite) -->
 <div class="animation-container">
@@ -313,7 +325,10 @@ Our evaluation reveals three critical insights for real-time multi-agent auditin
 Ultimately, budget-aware runtime monitoring represents a vital, scalable layer of defense for securing increasingly complex agentic ecosystems.
 
 Based on:
-Filippo Tonini, Federico Torrielli, Anton Danholt Lautrup, Peter Schneider-Kamp, Mustafa Mert Çelikok,  & Lukas Galke Poech (2026) [The Arbiter Agent: Continually Monitoring Multi-Agent Conversations to Detect Emergent Misalignment](https://github.com/aisilab/arbiter).
+Filippo Tonini, Federico Torrielli, Anton Danholt Lautrup, Peter Schneider-Kamp,
+Mustafa Mert Çelikok, & Lukas Galke Poech (2026). [The Arbiter Agent:
+Continually Monitoring Multi-Agent Conversations to Detect Emergent
+Misalignment](https://arxiv.org/abs/2606.10747). Accepted for AI Transparency Conference 2026.
 
 ---
 
