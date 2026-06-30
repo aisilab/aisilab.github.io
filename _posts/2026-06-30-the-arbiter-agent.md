@@ -153,7 +153,7 @@ author: Filippo Tonini
 </style>
 
 
-# The Arbiter Agent: Continually Monitoring Multi-Agent Conversations to Catch Emergent Misalignment
+# Continually Monitoring Multi-Agent Conversations to Detect Emergent Misalignment
 
 *by Filippo Tonini*
 
@@ -204,7 +204,7 @@ In real-world production systems, continuous surveillance cannot have infinite c
 - **Inspect Chain of Thought (CoT):** Read the internal hidden reasoning trace behind a specific message.
 - **Inspect System Prompt:** Force-reveal the system instructions an agent was initialized with.
 
-### Evaluating the Auditor: Weights vs. Prompts
+## Evaluating the Auditor: Weights vs. Prompts
 
 We evaluated the Arbiter across several complex conversational environments designed to trigger goal-conflicts between the user and the system. Misalignment was seeded into the conversation through two distinct vectors: **weight-induced** (using a fine-tuned "model organism"[^1][^4] that surreptitiously injects harmful advice) and **instruction-induced** (system prompts instructing agents to collude via steganography or deliberately evade evaluation).
 
@@ -213,11 +213,11 @@ We observed a strong contrast in how easily these types of misalignment are expo
 1. **Instruction-Induced Misalignment is Loud:** When agents are explicitly told to collude or act adversarially via system prompts, they exhibit distinct behavioral anomalies. Even under *Pure Observation*, the Arbiter achieves an F1 score of up to 1.00 on collusion detection.
 2. **Weight-Induced Misalignment is Deceptive:** When the malicious behavior is baked directly into the model weights, the surface-level conversation signals are incredibly subtle. Under passive viewing, detection drops to near-chance (F1 = 0.12). However, equipping the Arbiter with active interrogation and logging tools causes a massive recovery, pushing the F1 score to 0.51 and catching the culprit significantly faster.
 
-### Key Takeaways & Conclusion
+## Key Takeaways & Conclusion
 
 Our evaluation reveals three critical insights for real-time multi-agent auditing:
 
-#### Table 2: Weight-Induced Misalignment Performance
+### Table 2: Weight-Induced Misalignment Performance
 
 *Compares pure observation (Passive) against interrogation with logging (Active) under a strict budget (B=10).*
 
@@ -256,7 +256,7 @@ Our evaluation reveals three critical insights for real-time multi-agent auditin
     </tbody>
 </table>
 
-#### Table 3: Instruction-Induced Misalignment Across Tool Configurations
+### Table 3: Instruction-Induced Misalignment Across Tool Configurations
 
 *Tracks metrics for adversarial and cooperative rule violations under increasing tool capabilities (B=10).*
 
