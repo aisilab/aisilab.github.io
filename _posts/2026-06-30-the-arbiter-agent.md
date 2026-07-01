@@ -3,6 +3,7 @@ layout: post
 title: "The Arbiter Agent"
 date: 2026-06-30
 author: Filippo Tonini
+excerpt: "As AI systems built from multiple language-model agents become more common, they are increasingly tasked with collaborative decision-making: discussing, negotiating, and acting on shared workflows. This creates the need of efficient monitoring strategies, as severe safety problems can emerge from single agents being misaligned or from their interactions with one another."
 ---
 
 <style>
@@ -160,8 +161,7 @@ author: Filippo Tonini
 As AI systems built from multiple language-model agents become more common, they
 are increasingly tasked with collaborative decision-making: discussing,
 negotiating, and acting on shared workflows. This creates the need of efficient
-monitoring strategies, as severe safety problems can emerge from single agents
-or simply from their interactions with one another.
+monitoring strategies, as severe safety problems can emerge from single agents being misaligned or from their interactions with one another.
 
 Most existing auditing frameworks focus on *post hoc* evaluation of single
 models[^2][^3]. However, this is insufficient for multi-agent systems where

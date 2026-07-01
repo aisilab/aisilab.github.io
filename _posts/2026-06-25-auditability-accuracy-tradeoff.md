@@ -1,3 +1,9 @@
+---
+layout: post
+date: 2026-06-25
+author: Lukas Galke Poech
+excerpt: "[...] emergent communication research has shown that language models may drift away from human-interpretable communication protocols when trained for task success alone. This raises the question of how long language model reasoning will be legible to humans [...]"
+---
 # The Auditability-Accuracy Tradeoff
 
 *by Lukas Galke Poech*
