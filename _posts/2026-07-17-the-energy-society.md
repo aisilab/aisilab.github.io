@@ -17,7 +17,7 @@ LLM-based multi-agent simulations provide a powerful tool both for studying the 
 
 In most existing simulations the cost of token generation is left implicit contrasting with both real-world deployments where token generation has a computational cost and with human decision-making where cognition consumes physical energy.
 
-In our recent paper, we introduce **The Energy Society**: a small multi-agent simulation environment where every token an agent generates consumes the same resource they need to survive, coupling survival directly with a pressure to be efficient.
+In our recent paper, we introduce **The Energy Society**: a small multi-agent simulation environment where every token an agent generates consumes energy, the same resource they need to prevent deactivation, coupling survival directly with a pressure to be efficient.
 
 
 
