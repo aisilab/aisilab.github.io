@@ -132,6 +132,8 @@ we have only begun to scratch the surface of what these multi-agent simulations 
 Based on:
 Lucas Bergholdt Hansen, Federico Torrielli, Filippo Tonini, Lukas Galke Poech (2026) [The Energy Society: A Simulation Environment for Studying Agent Cooperation under Survival Pressure](https://arxiv.org/abs/2607.14865). Accepted for AI Transparency Conference 2026.
 
+[Code available here](https://github.com/aisilab/EnergySociety)
+
 ---
 
 ## References
