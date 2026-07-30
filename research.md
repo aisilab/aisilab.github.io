@@ -60,6 +60,32 @@ A selection of our recent publications is listed below, organized by theme.
 ## Agentic & Multi-Agent Safety
 
 {% include publication.html
+    title="Emergent Languages in Agent Populations: From Token Efficiency to Oversight Evasion"
+    authors="Stine Lyngsø Beltoft, William Brach, Federico Torrielli, Jacob Nielsen, Annemette Brok Pirchert, Filippo Tonini, Peter Schneider-Kamp, and Lukas Galke Poech"
+    venue="AIES"
+    year="2026"
+    preprint_url="https://arxiv.org/abs/2605.31170"
+%}
+
+{% include publication.html
+    title="The Arbiter Agent: Continually Monitoring Multi-Agent Conversations to Detect Emergent Misalignment"
+    authors="Filippo Tonini, Federico Torrielli, Anton Danholt Lautrup, Peter Schneider-Kamp, Mustafa Mert Çelikok, and Lukas Galke Poech"
+    venue="AI Transparency Conference"
+    year="2026"
+    preprint_url="https://arxiv.org/abs/2606.10747"
+    code_url="https://github.com/aisilab/arbiter"
+%}
+
+{% include publication.html
+    title="The Energy Society: A Simulation Environment for Studying Agent Cooperation under Survival Pressure"
+    authors="Lucas Bergholdt Hansen, Federico Torrielli, Filippo Tonini, and Lukas Galke Poech"
+    venue="AI Transparency Conference"
+    year="2026"
+    preprint_url="https://arxiv.org/abs/2607.14865"
+    code_url="https://github.com/LucasBergholdt/EnergySociety"
+%}
+
+{% include publication.html
     title="Training Language Models to Use Prolog as a Tool"
     authors="Niklas Mellgren, Peter Schneider-Kamp, and Lukas Galke Poech"
     venue="ACL Findings"
