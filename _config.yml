@@ -19,9 +19,9 @@ remote_theme: lgalke/swiss
 title: "AI Safety & Interpretability Lab"
 tagline: "AI Safety & Interpretability Lab" # Used by seo tag
 description: >
-  In the AI Safety & Interpretability Lab at SDU, we investigate how and why advanced AI
+  In the AI Safety & Interpretability Lab at SDU, we investigate why advanced AI
   systems behave the way they do and how we can use these insights to make them
-  more reliable, interpretable, and safe. 
+  safer.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://aisilab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
