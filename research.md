@@ -62,7 +62,7 @@ A selection of our recent publications is listed below, organized by theme.
 {% include publication.html
     title="Emergent Languages in Agent Populations: From Token Efficiency to Oversight Evasion"
     authors="Stine Lyngsø Beltoft, William Brach, Federico Torrielli, Jacob Nielsen, Annemette Brok Pirchert, Filippo Tonini, Peter Schneider-Kamp, and Lukas Galke Poech"
-    venue="AIES"
+    venue="Ninth AAAI/ACM Conference on AI, Ethics, and Society (AIES)"
     year="2026"
     preprint_url="https://arxiv.org/abs/2605.31170"
 %}

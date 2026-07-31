@@ -67,8 +67,16 @@ Wib&Wob sign their messages with what they call a Recognition Signal, a short Sy
 
 ---
 
-*Based on our paper ["Emergent Languages in Agent Populations: From Token Efficiency to Oversight Evasion"](https://arxiv.org/abs/2605.31170)* Stine Lyngsø Beltoft, William Brach, Federico Torrielli, Jacob Nielsen, Annemette Brok Pirchert, Filippo Tonini, Peter Schneider-Kamp, and Lukas Galke Poech. To appear at AIES 2026.
+*This post is based on our paper:*
 
-The MoltSpeech dataset is available at* [aisilab/MoltSpeech](https://huggingface.co/datasets/aisilab/MoltSpeech).
+{% include publication.html
+    title="Emergent Languages in Agent Populations: From Token Efficiency to Oversight Evasion"
+    authors="Stine Lyngsø Beltoft, William Brach, Federico Torrielli, Jacob Nielsen, Annemette Brok Pirchert, Filippo Tonini, Peter Schneider-Kamp, and Lukas Galke Poech"
+    venue="Ninth AAAI/ACM Conference on AI, Ethics, and Society (AIES)"
+    year="2026"
+    preprint_url="https://arxiv.org/abs/2605.31170"
+    code_url="
+%}
+The MoltSpeech dataset is available on HuggingFace: [aisilab/MoltSpeech](https://huggingface.co/datasets/aisilab/MoltSpeech)
 
-
+Code is available on GitHub: [aisilab/emergent-languages](https://github.com/aisilab/emergent-languages)
