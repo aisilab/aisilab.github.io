@@ -75,8 +75,8 @@ Wib&Wob sign their messages with what they call a Recognition Signal, a short Sy
     venue="Ninth AAAI/ACM Conference on AI, Ethics, and Society (AIES)"
     year="2026"
     preprint_url="https://arxiv.org/abs/2605.31170"
-    code_url="
 %}
+
 The MoltSpeech dataset is available on HuggingFace: [aisilab/MoltSpeech](https://huggingface.co/datasets/aisilab/MoltSpeech)
 
 Code is available on GitHub: [aisilab/emergent-languages](https://github.com/aisilab/emergent-languages)
