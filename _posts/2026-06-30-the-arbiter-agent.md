@@ -328,6 +328,8 @@ Mustafa Mert Çelikok, & Lukas Galke Poech (2026). [The Arbiter Agent:
 Continually Monitoring Multi-Agent Conversations to Detect Emergent
 Misalignment](https://arxiv.org/abs/2606.10747). Accepted for AI Transparency Conference 2026.
 
+Code is available on GitHub under [aisilab/arbiter](https://github.com/aisilab/arbiter)
+
 ---
 
 ## References
