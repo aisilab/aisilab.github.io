@@ -9,7 +9,15 @@ understand model behavior and internals, AI agent interaction, and collective dy
 
 A selection of our recent publications is listed below, organized by theme.
 
-## Interpretability & Transparency
+## Interpretability
+
+{% include publication.html
+    title="Rethinking Pivot Programming Languages in Code Language Models"
+    authors="Andor Diera, Lukas Galke Poech, Matthias Tichy"
+    venue="EMNLP"
+    year="2026"
+    abstract="Multilingual code language models transfer skills across programming languages (PLs), but whether any PL occupies a privileged pivot position remains contested: geometric analyses point to C-family languages and Go, while behavioral evidence highlights Python. We revisit this question under controls for representational anisotropy and length variation across PLs, two confounds that compromise prior cosine-based analyses. Across three code models, we study three views of cross-PL organization: pairwise PL geometry, PL–English alignment, and pivoted retrieval through candidate PL representation spaces. The results are relation-dependent. Code–code geometry reveals structured language regions but no universal center; code–English alignment favors high-level scripting languages; and pivoted retrieval favors different intermediate spaces for code–code and English–code transfer. These findings suggest that Python’s special role is better understood as English-facing affinity than as universal geometric centrality."
+}
 
 {% include publication.html
     title="Isolating Culture Neurons in Multilingual Large Language Models"
