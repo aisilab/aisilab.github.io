@@ -37,4 +37,4 @@ Email us at <a href="mailto:galke@imada.sdu.dk">galke@imada.sdu.dk</a> if you wa
 | July 20 and July 27 | _Summer break_ | * |
 | August 3 | [The Jacobian Lens](https://transformer-circuits.pub/2026/workspace/index.html#methods) | Annemette |
 | August 24 | [A mechanistic analysis of looped reasoning models](https://arxiv.org/abs/2604.11791) | Andrea |
-| tbd. | [A unifying framework from neural superposition to sparse interpretable codes](https://www.nature.com/articles/s42256-026-01259-z#Abs1) | Lukas |
+| Sept 14 | [A unifying framework from neural superposition to sparse interpretable codes](https://www.nature.com/articles/s42256-026-01259-z#Abs1) | Lukas |
