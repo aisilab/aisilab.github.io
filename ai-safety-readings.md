@@ -34,8 +34,7 @@ Email us at <a href="mailto:galke@imada.sdu.dk">galke@imada.sdu.dk</a> if you wa
 | June 29, 2026 | [Manifold Steering](https://arxiv.org/abs/2605.05115) | Johannes/Lukas |
 | July 6, 2026 | [Solipsistic Superintelligence is Unlikely to be Cooperative](https://arxiv.org/abs/2606.03237) | Filippo |
 | July 13, 2026 | [Human-AI Complementarity: A Goal for Amplified Oversight](https://arxiv.org/abs/2510.26518) | Shamim |
-| July 20 and July 27 | _Summer break_ | * |
-| August 3 | [The Jacobian Lens](https://transformer-circuits.pub/2026/workspace/index.html#methods) | Annemette |
-| August 24 | [A mechanistic analysis of looped reasoning models](https://arxiv.org/abs/2604.11791) | Andrea |
-| Sept 14 | [A unifying framework from neural superposition to sparse interpretable codes](https://www.nature.com/articles/s42256-026-01259-z#Abs1) | Lukas |
-| Sept 28 | [Closed-form predictive coding via hierarchical Gaussian filters](https://arxiv.org/abs/2605.20293) | **Aleksandrs Baskakovs** (Aarhus University) |
+| August 3, 2026 | [The Jacobian Lens](https://transformer-circuits.pub/2026/workspace/index.html#methods) | Annemette |
+| August 24, 2026 | [A mechanistic analysis of looped reasoning models](https://arxiv.org/abs/2604.11791) | Andrea |
+| Sept 14, 2026 | [A unifying framework from neural superposition to sparse interpretable codes](https://www.nature.com/articles/s42256-026-01259-z#Abs1) | Lukas |
+| Sept 28, 2026 | [Closed-form predictive coding via hierarchical Gaussian filters](https://arxiv.org/abs/2605.20293) | **Aleksandrs Baskakovs** (Aarhus University) |
