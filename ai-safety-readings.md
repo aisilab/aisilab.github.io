@@ -39,3 +39,4 @@ Email us at <a href="mailto:galke@imada.sdu.dk">galke@imada.sdu.dk</a> if you wa
 | Sept 14, 2026 | [A unifying framework from neural superposition to sparse interpretable codes](https://www.nature.com/articles/s42256-026-01259-z#Abs1) | Lukas |
 | Sept 28, 2026 | [Closed-form predictive coding via hierarchical Gaussian filters](https://arxiv.org/abs/2605.20293) | **Aleksandrs Baskakovs** (Aarhus University) |
 | Oct 26, 2026 | [Neural Networks Are Already Clean](https://already-clean.goodfire.com) | tbd |
+| Nov 9, 2026 | [Weight Oracles: Reading Neural Network Weights with Language Models](https://arxiv.org/abs/2610.07334) | Federico |
