@@ -10,8 +10,10 @@ scholar: https://scholar.google.com/citations?user=AHGGdYQAAAAJ
 image: /assets/images/lukas-galke-poech.jpg
 order: 0
 research_areas:
-  - AI Safety
+  - Machine learning
+  - Language Modeling
   - Interpretability
+  - AI Safety
 ---
 
-Lukas Galke Poech is an Assistant Professor in the Department of Mathematics and Computer Science at the University of Southern Denmark. His research focuses on advancing AI safety through interpretability. He is the principal investigator of the MIST Project on Scalable Mechanistic Interpretability for Safe and Trustworthy Language Model Agents, supported by the Novo Nordisk Foundation. Lukas received his PhD in representation learning from Kiel University, Germany. He then joined the Max Planck Institute for Psycholinguistics as a postdoc, where he drew inspiration from research on how language works in the human brain to understand learning, behavior, and cognition in language models.
+Lukas Galke Poech is an Associate Professor in the Department of Mathematics and Computer Science at the University of Southern Denmark. His research focuses on advancing AI safety through interpretability. He is the principal investigator of the MIST Project on Scalable Mechanistic Interpretability for Safe and Trustworthy Language Model Agents, funded by the Novo Nordisk Foundation. Lukas received his PhD in representation learning from Kiel University, Germany. He then joined the Max Planck Institute for Psycholinguistics as a postdoc, where he worked on emergent communication and took inspiration from research on how language works in the human brain to fuel his research on understanding learning, behavior, and cognition in language models.

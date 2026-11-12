@@ -5,6 +5,7 @@ affiliation: University of Southern Denmark (SDU)
 image:
 order: 2
 research_areas:
-  - Intelligible and Modular Architectures
+  - Interpretable Architectures
+  - Mechanistic Interpretability
 ---
 
