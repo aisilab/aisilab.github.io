@@ -41,5 +41,5 @@ Email us at <a href="mailto:galke@imada.sdu.dk">galke@imada.sdu.dk</a> if you wa
 | Sept 28, 2026 | [Closed-form predictive coding via hierarchical Gaussian filters](https://arxiv.org/abs/2605.20293) | **Aleksandrs Baskakovs** (Aarhus University) |
 | Oct 26, 2026 | [Neural Networks Are Already Clean](https://already-clean.goodfire.com) | tbd |
 | Nov 9, 2026 | [Weight Oracles: Reading Neural Network Weights with Language Models](https://arxiv.org/abs/2610.07334) | Federico |
-| Nov 16, 2026 | [AuditBench: Evaluating Alignment Auditing Techniques on Models with Hidden Behaviors](https://arxiv.org/abs/2602.22755) | tbd |
-| Nov 23, 2026 | [Training Honesty Adapters To Detect Deception In LLMs](https://openreview.net/forum?id=gpt1K3Ia4D) | tbd |
+| Nov 16, 2026 | [AuditBench: Evaluating Alignment Auditing Techniques on Models with Hidden Behaviors](https://arxiv.org/abs/2602.22755) | Lukas |
+| Nov 23, 2026 | [Training Honesty Adapters To Detect Deception In LLMs](https://openreview.net/forum?id=gpt1K3Ia4D) | Andrea |
