@@ -39,7 +39,7 @@ Email us at <a href="mailto:galke@imada.sdu.dk">galke@imada.sdu.dk</a> if you wa
 | August 24, 2026 | [A mechanistic analysis of looped reasoning models](https://arxiv.org/abs/2604.11791) | Andrea |
 | Sept 14, 2026 | [A unifying framework from neural superposition to sparse interpretable codes](https://www.nature.com/articles/s42256-026-01259-z#Abs1) | Lukas |
 | Sept 28, 2026 | [Closed-form predictive coding via hierarchical Gaussian filters](https://arxiv.org/abs/2605.20293) | **Aleksandrs Baskakovs** (Aarhus University) |
-| Oct 26, 2026 | [Neural Networks Are Already Clean](https://already-clean.goodfire.com) | tbd |
+| Oct 26, 2026 | [Neural Networks Are Already Clean](https://already-clean.goodfire.com) | * |
 | Nov 9, 2026 | [Weight Oracles: Reading Neural Network Weights with Language Models](https://arxiv.org/abs/2610.07334) | Federico |
 | Nov 16, 2026 | [AuditBench: Evaluating Alignment Auditing Techniques on Models with Hidden Behaviors](https://arxiv.org/abs/2602.22755) | Lukas |
 | Nov 23, 2026 | [Training Honesty Adapters To Detect Deception In LLMs](https://openreview.net/forum?id=gpt1K3Ia4D) | Andrea |
