@@ -44,4 +44,5 @@ Email us at <a href="mailto:galke@imada.sdu.dk">galke@imada.sdu.dk</a> if you wa
 | Nov 16, 2026 | [AuditBench: Evaluating Alignment Auditing Techniques on Models with Hidden Behaviors](https://arxiv.org/abs/2602.22755) | Lukas |
 | Nov 23, 2026 | [Training Honesty Adapters To Detect Deception In LLMs](https://openreview.net/forum?id=gpt1K3Ia4D) | Andrea |
 | Nov 30, 2026 | [Neurons as an Interpretable Basis](https://www.goodfire.com/research/neurons-as-an-interpretable-basis) (primary) + [follow-up on neuron communities](https://www.goodfire.com/research/neuron-communities) | Johannes |
-| Dec 7, 2026 | [Homeopathic Learning](https://arxiv.org/abs/2611.10110) | Jady |
+| Dec 7, 2026 | tbd | tbd |
+| Dec 14, 2026 | [Homeopathic Learning](https://arxiv.org/abs/2611.10110) | Jady |
